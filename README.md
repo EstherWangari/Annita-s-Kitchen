@@ -7,7 +7,7 @@
 ## Description
  It is a fast food website that includes the meals and drinks offered.
 
-##Requirements
+## Requirements
 * A phone or PC
 * Internet connectivity
 * A browser of your choice.
