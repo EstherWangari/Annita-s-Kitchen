@@ -21,7 +21,7 @@
 
 
 ## Support and Contact
-Details Email: email address GitHub:[https://github.com/EstherWangari]Anita's Kitchen.
+Details Email: email address GitHub:[https://github.com/EstherWangari] Anita's Kitchen.
 Developer
 
 ## LICENCE (c) (2018)
