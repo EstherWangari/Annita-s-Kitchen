@@ -11,3 +11,15 @@
 .meals .col-md-3{background-image: url(../assets/foodtop/breakfast.jpg);background-size: cover;}
 .meals .col-md-3:nth-child(3){background-image: url(../assets/foodtop/lunch.jpg);}
 .meals .col-md-3:nth-child(4){background-image: url(../assets/foodtop/dinner.jpg);}
+.container{padding-top:100px;position: relative; overflow: hidden;}
+.imgbox{padding:20px;border-radius: 2px;box-shadow:0 0px 10px rgba(0,0,0,.3);}
+.imgbox img{width:100%;}
+.img2 .imgbox img{width:50%;float:left;}
+.text h2{font-weight:700;margin-top: 3px;font-family: 'Josefin Slab',serif;color: #434549;}
+.text h5{font-weight:700;margin-top: 3px;font-family: 'Josefin Slab',serif;color: #434549;}
+.text{padding-right: 80px;}
+.img2{padding-top:100px; text-align: right;}
+.img2 h2{font-weight:700;margin-top: 3px; font-family: 'Josefin Slab',serif;color: #434549;}
+.img2 h5{font-weight:700;margin-top: 3px;font-family: 'Josefin Slab',serif;color: #434549;}
+.break{clear:both;width:0;height:0;opacity:0;display:block;}
+button.btn{color:#F38D6E;border:solid 1px #EF522B;display:block;background-color: #fff; padding: .7rem 1.6rem;}
