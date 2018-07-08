@@ -1,45 +1,13 @@
-.page-header {
-  border: 1px solid red;
-  background-image: url(../assets/backgrounds/landing.jpg);
-}
-.options {
-  padding:0;
-  margin:0;
-
-}
-.centered {
-    position: absolute;
-    top: 50%;
-    left: 150px;
-    transform: translate(-50%, -50%);
-     color:white;
-    font-family:raleway;
-    font-size:2em;
-}
-.happy {
-  background-color:rgb(255, 255, 255);
-  max-height: 100%;
-  max-width: 100%
-  padding:35px;
-  margin:0;
-  color:black;
-
-}
-.party {
-  background-color:#F15A29;
-  max-height: 100%;
-  max-width: 100%
-  padding:35px;
-  margin:0;
-  color:black;
-
-}
-.me{
-  margin:0;
-  padding:0;
-  border:1px solid black;
-  text-align: center;
-}
-.container {
-  margin-top: 3cm;
-}
+.bd-red{border:dashed 1px red}
+.bd-blue{border:dashed 1px blue}
+.page-header{background-image:url(../assets/backgrounds/landing.jpg);background-repeat:no-repeat;background-size:cover;min-height:600px;padding:100px 0}
+.page-header h4{margin-top:30px;color:#fff;font-size:2.5em;text-transform: capitalize;font-family:  'Josefin Slab', serif;}
+.page-header h4 b{font-weight:700;}
+.page-header center{position: relative;}
+.page-header center .menu{position:absolute;top:-20px;left:60px;color:#fff;font-size: 2em;}
+.meals .col-md-3{height:220px; overflow:hidden;font-family:'Josefin Slab',serif;font-size:2em;font-weight:700;text-align: center;padding-top:80px;position: relative;color:#fff;font-style:italic;}
+.meals .col-md-3 a{display:block; width:100%; position: absolute;top:0;left:0;height:50%;background-color:#E2E3E5; padding-top:30px; color:#434549;font-style: normal;}
+.meals a:last-child{top:50%;background-color: #EF522B;color:#fff!important;}
+.meals .col-md-3{background-image: url(../assets/foodtop/breakfast.jpg);background-size: cover;}
+.meals .col-md-3:nth-child(3){background-image: url(../assets/foodtop/lunch.jpg);}
+.meals .col-md-3:nth-child(4){background-image: url(../assets/foodtop/dinner.jpg);}
