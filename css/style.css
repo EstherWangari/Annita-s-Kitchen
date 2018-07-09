@@ -31,3 +31,6 @@ button.btn{color:#F38D6E;border:solid 1px #EF522B;display:block;background-color
 .container .col-md-12 h4{color:#ED532C;font-weight:600;}
 .formbg{background-image: url(../assets/backgrounds/subscribe.jpg); background-size: cover;}
 .formbg .container p{color:#fff; font-size: 2em;}
+footer{background-color: #EF522B;height:200px;display: block;
+
+}
