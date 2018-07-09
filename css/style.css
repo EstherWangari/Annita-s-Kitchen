@@ -23,14 +23,24 @@
 .img2 h5{font-weight:700;margin-top: 3px;font-family: 'Josefin Slab',serif;color: #434549;}
 .break{clear:both;width:0;height:0;opacity:0;display:block;}
 button.btn{color:#F38D6E;border:solid 1px #EF522B;display:block;background-color: #fff; padding: .7rem 1.6rem;}
-.bgtabs{height:400px;background-image: url(../assets/backgrounds/foodsBg.jpg);background-size: cover;}
+.bgtabs{height:400px;background-image: url(../assets/backgrounds/foodsBg.jpg);background-size: cover;margin-top: 90px;}
+.nav-tabs .nav-link{background-color:#E2E2E2;width:25%;text-align:center;border-radius:0;border-left:1px solid #C8C8C8;}
+.nav-tabs .nav-link.active{color: #495057;  background-color: #fff;}
+.tab-pane{background-color: #fff;height:300px;}
+
+
+
+
+
 .col-md-8 h4{color:#EF522B;}
 .col-md-8{border-right: 1px solid #D3D3D3;margin-left:-26px;margin-right: 25px;}
-.fa{color:#EF522B;padding:0 12px 0 12px;}
-.container .col-md-12 .customers{border:2px solid #D3D3D3;padding-left:45px;padding-top: 20px;box-shadow:4px 2px #D3D3D3;margin-bottom: 100px;}
+.container .customers .fa{color:#EF522B;padding:0 12px 0 12px;}
+ .customers{border:2px solid #D3D3D3;padding-left:45px;padding-top: 20px;box-shadow:4px 2px #D3D3D3;margin-bottom: 100px;}
 .container .col-md-12 h4{color:#ED532C;font-weight:600;}
 .formbg{background-image: url(../assets/backgrounds/subscribe.jpg); background-size: cover;}
 .formbg .container p{color:#fff; font-size: 2em;}
-footer{background-color: #EF522B;height:200px;display: block;
-
-}
+.form-inline{margin-bottom: 100px;}
+.form-control{background-color:#665658;}
+.formbg button.btn{margin-left:60px;width:200px;background-color:#EF522B; color:#fff;font-size:1.1em;letter-spacing:.1rem;}
+footer{background-color: #EF522B;height:300px;}
+#end{padding-top: 90px;padding-left: 377px;}
