@@ -5,6 +5,7 @@
 .page-header h4 b{font-weight:700;}
 .page-header center{position: relative;}
 .page-header center .menu{position:absolute;top:-20px;left:60px;color:#fff;font-size: 2em;}
+center .btn-primary{background-color:transparent;border:none;color:black;font-size:2em;font-weight:700;}
 .meals .col-md-3{height:220px; overflow:hidden;font-family:'Josefin Slab',serif;font-size:2em;font-weight:700;text-align: center;padding-top:80px;position: relative;color:#fff;font-style:italic;}
 .meals .col-md-3 a{display:block; width:100%; position: absolute;top:0;left:0;height:50%;background-color:#E2E3E5; padding-top:30px; color:#434549;font-style: normal;}
 .meals a:last-child{top:50%;background-color: #EF522B;color:#fff!important;}
