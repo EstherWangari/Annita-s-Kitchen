@@ -27,8 +27,9 @@ button.btn{color:#F38D6E;border:solid 1px #EF522B;display:block;background-color
 .bgtabs{height:500px;background-image: url(../assets/backgrounds/foodsBg.jpg);background-size: cover;margin-top: 90px;}
 .nav-tabs .nav-link{background-color:#E2E2E2;width:25%;text-align:center;border-radius:0;border-left:1px solid #C8C8C8;color:#5A5A5A;font-size:1.2em;font-weight:600}
 .nav-tabs .nav-link.active{color:#ED532C;  background-color: #fff;font-weight:600;font-size: 1.2em;}
-.tab-pane{background-color: #fff;height:300px;display: inline-block;}
-.tab-pane img{padding-left:10px;margin-top:20px;}
+.tab-pane{background-color: #fff;height:300px;display: inline-block;min-width: 131%;}
+.tab-pane img{padding-left:10px;margin-top:-69px;}
+/*.carousel-innner img{margin-top:30px;height:30px;}*/
 .tab-pane ul li{list-style-type: none;float:left;padding-left: 140px;margin-top:10px;color:#ED532C;font-size:1.2em;font-weight:600;}
 .tab-pane .fa{color:#FD653C;font-weight:700;padding-left:10px;}
 .col-md-8 h4{color:#EF522B;}
