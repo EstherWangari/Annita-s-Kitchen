@@ -4,6 +4,4 @@ $(".formbg").submit(function(event){
   alert("Thank you " +email+ " for subscribing");
   event.preventDefault();
 });
-
-
 });
