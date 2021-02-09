@@ -4,7 +4,7 @@
 - [Esther Wangari](https://github.com/EstherWangari)
 
 ## Description
-This is an independent project where we were given a template of a restaurant's website and I was supposed to build it from scratch. It is a website that shows what is in the menu and some pictures of the customers that enjoyed our food,drinks and services. It also has a section where you can see the food that is only available for breakfast, lunch and Dinner.
+This is a template of a restaurant's website
 
 ## Requirements
 * A phone or PC
@@ -20,10 +20,10 @@ This is an independent project where we were given a template of a restaurant's 
 * Git
 
 ## Live Demo
-to view live demo (https://estherwangari.github.io/Annita-s-Kitchen/)
+to view live demo (https://wangarigikonyo.github.io/Annita-s-Kitchen/)
 
 ## Support and Contact
-* [Github](https://github.com/EstherWangari)
+* [Github](https://github.com/WangariGikonyo)
 * [Gmail](mailto:wangarie0@gmail.com)
 
 ## LICENCE (c) (2018)
